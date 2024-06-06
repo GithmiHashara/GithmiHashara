@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @GithmiHashara
-- 🎓 I’m first year undergraduate student at Sabaragamuwa University of Sri Lanka.
+- 🎓 I’m second year undergraduate student at Sabaragamuwa University of Sri Lanka.
 
 
 <!---
