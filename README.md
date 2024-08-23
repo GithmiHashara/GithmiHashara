@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@GithmiHashara](https://hashnode.com/@GithmiHashara)
 
-- 📫 How to reach me **githmihashara@gmail.com**
+- 📫 How to reach me **githmihashara7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
