@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Githmi Hashara</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githmihashara&label=Profile%20views&color=0e75b6&style=flat" alt="githmihashara" /> </p>
-
-<p align="left"> <a href="https://twitter.com/githmihashara" target="blank"><img src="https://img.shields.io/twitter/follow/githmihashara?logo=twitter&style=for-the-badge" alt="githmihashara" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GithmiHashara?tab=repositories](https://github.com/GithmiHashara?tab=repositories)
