@@ -31,6 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githmihashara&show_icons=true&locale=en" alt="githmihashara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githmihashara&" alt="githmihashara" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GithmiHashara&bg_color=000000&color=80ffea&line=d973d2&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/githmihashara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/githmihashara" /></a></p><br><br>
