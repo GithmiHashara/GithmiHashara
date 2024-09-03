@@ -34,6 +34,21 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GithmiHashara&bg_color=000000&color=52ffe2&line=d72dcc&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ <td ><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GithmiHashara&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+ <table align="center" width="100%" height="100%" border="none" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GithmiHashara&theme=github_dark" alt="Githmi's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GithmiHashara&theme=github_dark&utcOffset=10" alt="Githmi's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GithmiHashara&theme=github_dark" alt="Githmi's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GithmiHashara&theme=github_dark" alt="Githmi's GitHub Stats"/></td>
+    </tr>
+ </table>
+
+ 
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/githmihashara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/githmihashara" /></a></p><br><br>
+
+
+
+
