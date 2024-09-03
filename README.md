@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githmihashara&" alt="githmihashara" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GithmiHashara&bg_color=000000&color=80ffea&line=d973d2&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GithmiHashara&bg_color=000000&color=52ffe2&line=d72dcc&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <h3 align="left">Support:</h3>
