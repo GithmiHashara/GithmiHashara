@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Githmi Hashara</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githmihashara" alt="githmihashara" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js and React**
+- 🌱 I’m currently learning about **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GithmiHashara?tab=repositories](https://github.com/GithmiHashara?tab=repositories)
 
